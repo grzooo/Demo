@@ -1,0 +1,17 @@
+{
+  "name": "dist",
+  "homepage": "https://github.com/grzooo/Demo",
+  "authors": [
+    "Klrito <459180455@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
